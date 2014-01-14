@@ -2,4 +2,4 @@ broopsFramework
 ===============
 
 OOP
-angelo
+Author / Contributors : King James Torres & Angelo Gabisan
